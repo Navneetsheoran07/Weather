@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    //To Generate weather api key follow this link https://home.openweathermap.org/api_keys
+    <string name="open_weather_api_key">e35bb522e50372880110118b2e3dcaa2</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="LightBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="colorAccent">#03A9F4</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen_background</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
